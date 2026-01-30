@@ -1,0 +1,11 @@
+id,nome,idade,salario,cidade,departamento
+1,Ana Silva,25,3000,São Paulo,Financeiro
+2,bruno costa,,4500,Rio de Janeiro,TI
+3,Carlos Souza,30,,Belo Horizonte,Marketing
+4,ana silva,25,3000,sao paulo,Financeiro
+5,Daniel Pereira,17,2000,Curitiba,Estágio
+6,Elena Lima,40,8000,RECIFE,TI
+7,Felipe Rocha,35,5500,Rio de janeiro,ti
+8,,28,4000,São Paulo,Financeiro
+9,Gabriela Alves,29,abc,Campinas,Marketing
+10,Hugo Martins,50,10000,,Diretoria
