@@ -1,7 +1,5 @@
 # Pipeline_elt
 
-Projeto de ETL em Python que realiza extração, transformação e carga de dados CSV, aplicando regras de qualidade, padronização e validação, gerando dataset final pronto para análise e BI.
-
 📊 Pipeline de Dados em Python (ETL)
 📌 Visão Geral
 
